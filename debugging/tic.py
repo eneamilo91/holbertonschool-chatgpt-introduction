@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def print_board(board):
     """
     Prints the Tic-Tac-Toe board in a readable format.
